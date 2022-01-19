@@ -1,3 +1,7 @@
 body{
     background-color: cornflowerblue;
 }
+
+header{
+    border: 7px dashed goldenrod;
+}
